@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/web/login.jsp</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/src/java/com/sms/servlet/LoginServlet.java</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/src/java/com/sms/servlet/LogoutServlet.java</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/src/java/com/sms/util/DBConnection.java</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/src/java/com/sms/servlet/AddStudentServlet.java</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/src/java/com/sms/servlet/EditStudentServlet.java</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/src/java/com/sms/servlet/DeleteStudentServlet.java</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/web/addStudent.jsp</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/web/editStudent.jsp</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/src/java/com/sms/servlet/GenerateQRServlet.java</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/src/java/com/sms/servlet/SaveMarksServlet.java</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/src/java/com/sms/servlet/SaveClassMarksServlet.java</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/src/java/com/sms/servlet/SubjectServlet.java</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/web/classMarks.jsp</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/src/java/com/sms/servlet/SessionServlet.java</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/src/java/com/sms/servlet/StudentCheckInServlet.java</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/web/studentCheckin.jsp</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/web/js/jsQR.js</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/src/java/com/sms/util/RoleCheck.java</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/src/java/com/sms/servlet/LMSServlet.java</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/web/qrScan.jsp</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/web/qrCode.jsp</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/web/reports.jsp</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/src/java/com/sms/servlet/MarkAttendanceServlet.java</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/web/emailNotify.jsp</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/web/dashboard.jsp</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/src/java/com/sms/servlet/AttendanceSchedulerServlet.java</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/web/attendance.jsp</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/src/java/com/sms/servlet/GenerateReportServlet.java</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/web/subjects.jsp</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/web/studentProfile.jsp</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/web/students.jsp</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/web/studentDashboard.jsp</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/web/notices.jsp</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/web/monthlyReport.jsp</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/web/marks.jsp</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/web/manageUsers.jsp</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/web/lms.jsp</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/web/addMarks.jsp</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/src/java/com/sms/servlet/SendEmailServlet.java</file>
+            <file>file:/C:/Users/Vishmi/Documents/NetBeansProjects/SMS_1/web/chatbot.jsp</file>
+        </group>
+    </open-files>
+</project-private>
